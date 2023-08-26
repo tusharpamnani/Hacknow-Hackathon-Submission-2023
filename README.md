@@ -18,7 +18,7 @@ The Ethereum Voting DApp is a decentralized application built on the Ethereum bl
 
 2. **Get Ether:** Ensure you have a sufficient amount of Ether in your wallet to cover the transaction fees and the voting process.
 
-3. **Access the DApp:** Visit the Ethereum Voting DApp website (provide URL here) using a compatible web browser with your Ethereum wallet extension enabled.
+3. **Access the DApp:** Visit the Ethereum Voting DApp website (url will be uploaded soon) using a compatible web browser with your Ethereum wallet extension enabled.
 
 4. **Connect Wallet:** On the DApp's website, click the "Connect Wallet" button. This will prompt you to connect your Ethereum wallet. Choose your preferred wallet and authorize the connection.
 
